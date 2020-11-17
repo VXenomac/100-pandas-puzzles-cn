@@ -1,6 +1,8 @@
 # 100-pandas-puzzles-cn
 
-本 Repo 是 100-pandas-puzzles 的中文版，英文原版请移步[这里](https://github.com/ajcr/100-pandas-puzzles)。
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VXenomac/100-pandas-puzzles-cn/blob/master/)
+
+本 Repo 是 100-pandas-puzzles 的中文版，目前将要开始翻译清理数据部分，英文原版请移步[这里](https://github.com/ajcr/100-pandas-puzzles)。
 
 受 [numpy-100](https://github.com/rougier/numpy-100) 的启发，本仓库将提供 100 个（仍在更新）小问题用于测试你对 Pandas 的掌握。
 
@@ -30,7 +32,7 @@ Pandas 是一个具有非常多专业特性和功能的大型库，由于时间�
 
 本仓库将提供两种运行的方法：
 
-1. 点击进入 Google Colab 直接运行
+1. 点击 [Open in Colab](https://colab.research.google.com/github/VXenomac/100-pandas-puzzles-cn/blob/master/ 直接运行
 
 2. 在电脑本地运行
 
