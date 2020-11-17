@@ -32,7 +32,7 @@ Pandas 是一个具有非常多专业特性和功能的大型库，由于时间�
 
 本仓库将提供两种运行的方法：
 
-1. 点击 [Open in Colab](https://colab.research.google.com/github/VXenomac/100-pandas-puzzles-cn/blob/master/ 直接运行
+1. 点击 [Open in Colab](https://colab.research.google.com/github/VXenomac/100-pandas-puzzles-cn/blob/master/) 直接运行
 
 2. 在电脑本地运行
 
