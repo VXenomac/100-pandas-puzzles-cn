@@ -60,7 +60,7 @@ Pandas 是一个具有非常多专业特性和功能的大型库，由于时间�
 
 ## 其他资料
 
-如果你想再开始之前复习复习 pandas，官方文档是一个不错的选择：
+如果你想在开始之前复习复习 pandas，官方文档是一个不错的选择：
 
 - [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html)
 - [pandas basics](http://pandas.pydata.org/pandas-docs/version/0.17.0/basics.html)
